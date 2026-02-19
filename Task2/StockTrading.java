@@ -1,4 +1,3 @@
-package TASK2;
 
 import java.io.*;
 import java.util.*;
@@ -182,3 +181,4 @@ public class StockTrading{
         sc.close();
     }
 }
+
